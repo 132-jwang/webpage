@@ -1,0 +1,1 @@
+function myFunction(){document.getElementById('microbit').src='microbit2.jpg'}
